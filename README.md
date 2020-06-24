@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ##### `2. Unzip the file`
 ##### `3. Open the folder in VS(Visual Studio Code)`
 ##### `4. Open a terminal and type 'npm run start'`
-# 
+
 ## Available Scripts
 
 In the project directory, you can run:
