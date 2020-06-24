@@ -3,10 +3,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![](intro.gif) <br />
 
 ## Steps
-### `1. Download the clone of this repo`
-### `2. Unzip the file`
-### `3. Open the folder in VS(Visual Studio Code)`
-### `4. Open a terminal and type 'npm run start'`
+##### `1. Download the clone of this repo`
+##### `2. Unzip the file`
+##### `3. Open the folder in VS(Visual Studio Code)`
+##### `4. Open a terminal and type 'npm run start'`
 
 ## Available Scripts
 
